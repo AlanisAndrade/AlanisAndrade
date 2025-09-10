@@ -1,4 +1,4 @@
-## # Olá, eu sou Alanis
+## Olá, eu sou Alanis
 Sou desenvolvedora iniciante. Estou aprendendo e criando projetos em **Python**, **Darth** e **HTML**.
 
 ---
