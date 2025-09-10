@@ -1,16 +1,23 @@
-## Hi there 👋
+## # Olá, eu sou Alanis
+Sou desenvolvedora iniciante. Estou aprendendo e criando projetos em **Python**, **Darth** e **HTML**.
 
-<!--
-**AlanisAndrade/AlanisAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linguagens: Python, Darth, HTML
+- Ferramentas e Frameworks: GitHub, Android Studio,VS Code e Flutter (para apps móveis e web) 
+- Conceitos: Lógica de programação, Orientação a objetos, Desenvolvimento web básico  
+
+---
+
+## Como me encontrar
+
+- LinkedIn: [alanisandrade](https://www.linkedin.com/in/alanisandrade)
+- Email:[alanis.andrade2015@gmail.com](mailto:alanis.andrade2015@gmail.com)  
+
+---
+
+"Sempre aprendendo e evoluindo como desenvolvedora, buscando aprimorar habilidades e explorar novas tecnologias continuamente."
+
+
